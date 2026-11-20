@@ -9,7 +9,7 @@ Owner-authorized field notes from a Lenovo Tab M11 service session: backing up a
 
 ⚠️ Only use this on a device you own or are explicitly authorized to service. Erasing userdata permanently deletes local data. This is not for stolen devices.
 
-Important honesty note: this is a record of what the local logs prove, not a support guide. The logs confirm the FRP backup+erase and the userdata erase. They do NOT include a power-on, setup-wizard, or account-lock check afterward, so this video does not claim the tablet was verified as fully working at the end.
+Important honesty note: this is a record of what the local logs prove, not a support guide. The logs confirm the FRP backup+erase and the userdata erase. They do NOT include a power-on, setup-wizard, or account-lock check afterward — the device was unplugged right after the FRP work — so this video does not claim the tablet was verified as fully working at the end.
 
 Confirmed in the logs:
 - Tool-reported chip string: MT6768/MT6769 (Helio P65/G85, k68v1), HW code 0x707

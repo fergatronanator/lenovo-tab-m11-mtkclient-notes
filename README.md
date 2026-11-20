@@ -25,7 +25,7 @@ Owner-authorized field notes from a September 2026 service session on a **Lenovo
 - No exact model number (for example `TB330FU`, `TB328`, or `TB331`) was confirmed.
 - No firmware version, Android version, or build number was confirmed.
 - No IMEI, serial number, Wi-Fi detail, or other personal identifier was confirmed or is published here.
-- **No power-on, setup-wizard, or account-lock verification was logged after the wipe.** The operations succeeded; the end result was not observed in the retained evidence.
+- **No power-on, setup-wizard, or account-lock verification was logged after the wipe.** The operations succeeded; the end result was not observed in the retained evidence. The owner reports unplugging the tablet immediately after the FRP work, which explains why no follow-up check was captured.
 - An early “Helio G88” label was an assistant inference. The tool only logged the broader string `MT6768/MT6769 (Helio P65/G85, k68v1)`.
 - A firmware/flashing-tool rescue guide was pasted into the session as background context. It is **not** locally observed evidence and is intentionally excluded from this repo.
 
